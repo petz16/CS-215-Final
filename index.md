@@ -14,7 +14,7 @@ The data preparation is really the meat of the project. We had to run a Python s
 
 Then we plotted that data along with a line of best fit to see if there is a correlation. The 2021 data shows what appears to be a positive correlation between fastball velocity and goose eggs, with all players above 30 goose eggs also being above the 65th percentile for fastball velocity.
 <iframe src="goose_egg_plot.html" height="600" width="100%" frameBorder="0"></iframe>
-*Figure 1: Animated plot by year. Fastball velocity percentile is labeled on the x-axis (0-100) and the number of goose eggs for the season is on the y-axis. The regression lines all have a positive slope, implying that higher fastball velocity correlates with more goose eggs.*
+*Figure 1: Animated plot by year. Fastball velocity percentile is labeled on the x-axis (further right = harder thrower) and the number of goose eggs for the season is on the y-axis. The regression lines all have a positive slope, implying that higher fastball velocity correlates with more goose eggs.*
 
 ## Conclusions
 In each plot, the line of best fit has a positive slope, indicating a positive correlation. This would suggest that harder throwers make better relievers. Our goose egg data from the script followed with gamelogs on [baseballreference.com](https://www.baseball-reference.com/leagues/majors/2025-schedule.shtml), so I have no concerns about the completion of the database. 

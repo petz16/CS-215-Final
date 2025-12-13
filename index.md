@@ -1,7 +1,7 @@
 # Do Fireballers Make Better Relievers?
 
 **Members:** Nate Petz, Aden Lepp
-[colab](Goose_Eggs.ipynb)
+[colab](Goose_Eggs.py)
 ## Introduction
 The general question we set out to answer was whether throwing harder as an MLB reliever makes you a better pitcher. We compared Fastball velocity percentile against a statistic called a **goose egg**. 
 
